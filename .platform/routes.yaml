@@ -6,3 +6,11 @@
 "https://{default}/":
     type: redirect
     to: "https://www.{default}/"
+
+    "https://www.main-bvxea6i-o7lih3c63ivgw.de-2.platformsh.site":
+    type: upstream
+    upstream: "netflix:http"
+
+"https://main-bvxea6i-o7lih3c63ivgw.de-2.platformsh.site":
+    type: redirect
+    to: "https://www.main-bvxea6i-o7lih3c63ivgw.de-2.platformsh.site"
