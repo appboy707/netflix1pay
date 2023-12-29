@@ -20,7 +20,7 @@ mounts:
     source_path: netflix
 
 # The size of the persistent disk of the application (in MB).
-disk: 5046
+disk: 10146
 
 # The relationships of the application with services or other applications.
 #
