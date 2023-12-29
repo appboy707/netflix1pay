@@ -1,0 +1,15 @@
+{
+    "name": "appboy/netflix",
+    "autoload": {
+        "psr-4": {
+            "Appboy\\Netflix\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SHARP1",
+            "email": "firewatchgame@gmail.com"
+        }
+    ],
+    "require": {}
+}
